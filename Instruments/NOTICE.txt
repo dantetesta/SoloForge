@@ -1,0 +1,10 @@
+Amostras de instrumento (CC0 1.0 Universal)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Electric — Emilyguitar, D. Smolken / Karoryfer Samples. Guitarra elétrica gravada direta.
+https://github.com/sfzinstruments/karoryfer.emilyguitar
+
+Acoustic — Meta Steel Guitar, Meta Creative Audio. Violão de aço gravado por corda e intensidade.
+https://github.com/facebookincubator/Meta-open-sound/tree/main/systems/instruments/meta-steel-guitar
+
+Seleção, recorte inicial e conversão para WAV mono de 44,1 kHz realizados para a reprodução no aplicativo.
